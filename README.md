@@ -21,8 +21,3 @@ This repository contains all the necessary code to create:
     $ terraform apply
     ```
 1. Commit the state in `terraform.tfstate` to your repository and you're done!
-
-## Step by step
-
-Follow the instructions on my blog post to get a full explanation on what is being created and how it is configured: https://tbekas.dev/posts/setting-up-an-aws-organization-from-scratch-with-terraform
->>>>>>> Initial commit
