@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AWS-Terraform-Create-Organization
-Provisioning code for setting up an AWS organization with Terraform.
-=======
 # AWS Organization Example
 
 ## About
